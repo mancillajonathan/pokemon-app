@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #FFC14C;
     height: auto;
-    background-image: url('./images/pokeball-asset.svg');
+    background-image: url('../images/pokeball-asset.svg');
     background-position: left -120px top -70px;
     background-repeat: no-repeat;
 }
