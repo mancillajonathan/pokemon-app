@@ -50,6 +50,7 @@ body {
 }
 
 .pokemon-text {
+    display: none;
     color: lightslategray;
     margin: 0;
     text-align: center;
