@@ -1,5 +1,5 @@
-import API from './api.js';
-import Pokemon from './pokemon.js';
+import API from './Api.js';
+import Pokemon from './Pokemon.js';
 
 const api = new API();
 
